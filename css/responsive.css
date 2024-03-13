@@ -1,0 +1,72 @@
+@media only screen and (max-width:1375px){
+    #jobs{
+        display: none;
+    }
+}
+@media only screen and (max-width:1270px){
+    #spaces{
+        display: none;
+    }
+}
+@media only screen and (max-width:1160px){
+    h3{
+       font-size: 20px;
+    }
+}
+@media only screen and (max-width:1145px){
+    #get-certified{
+        display: none;
+    }
+}
+
+@media only screen and (max-width:992px){
+    .box-container,.box-container4,.box-container2{
+     width: 100%;
+    }
+    #services{
+        display: none;
+    }
+    .box-container3{
+        width: 50%;
+    }
+}
+@media only screen and (min-width:735px) and (max-width:875px){
+    #search-box{
+        display: none;
+    }
+    .fa-magnifying-glass{
+        margin-left: 0;
+    }
+}
+@media only screen and (max-width:735px){
+    #tutorials,#exercises,#certificates{
+        display:none;
+    }
+    #menu{
+        display: block;
+    }
+} 
+@media only screen and (max-width:625px){
+    #search-box{
+        display: none;
+    }
+    .fa-magnifying-glass{
+        margin-left: 0;
+    }
+}
+@media only screen and (max-width:600px){
+    .container{
+        padding: 1.5rem;
+    }
+    .box-container3{
+        width: 100%;
+    }
+}
+@media only screen and (max-width:480px){
+    .container{
+        padding: 0;
+    }
+    #signup{
+        display: none;
+    }
+}
